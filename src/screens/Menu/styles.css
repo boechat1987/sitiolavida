@@ -1,0 +1,11 @@
+.bootstrapMenu {
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+.menu
+{  
+    background-color:#F00; /*whichever you want*/
+    opacity: 0.5; 
+    filter:(opacity=50);       
+}
